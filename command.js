@@ -3,8 +3,8 @@ const { Token } = require("./Token");
 const { ID } = require("./Id");
 const commands = [
   {
-    name: "ping",
-    description: "Replies with Pong!",
+    name: "create",
+    description: "Create a new shorst Url",
   },
 ];
 
